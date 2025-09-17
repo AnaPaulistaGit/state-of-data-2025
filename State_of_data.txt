@@ -1,0 +1,50 @@
+State_of_data
+
+Em anexo estão dois arquivos: State_of_data_2022_v1.csv e State_of_data_2025v2.csv
+Esses arquivos são referentes a dados dos anos de 2022 e 2025 sobre o mercado de trabalho brasileiro na area de dados obtidos atraves da colaboracao entre Data Hackers, comunidade de dados do Brasil e Bain & Company, consultoria global de negocios.
+Leia esses dois arquivos com muita atençao porque vou lhe passar algumas instruçoes e depois fazer perguntas sobre eles.
+Resposta do chat:
+Já li os dois arquivos.
+Eles têm muitas colunas (o de 2025, por exemplo, tem mais de 400) e trazem detalhes sobre perfil demográfico, experiência, ferramentas, tecnologias e rotina de profissionais de dados no Brasil, tanto para 2022 quanto para 2025.
+Agora é só me dizer sua primeira pergunta que eu consigo buscar a resposta diretamente nos dados.
+
+primeira instruçao:
+Identifique quais são as 10 principais atividades dos profissionais que atuam na gestao de equipe de dados do ano 2022 e tambem as 10 principais atividades do ano 2025. 
+Crie dois graficos - um para cada ano, e em ordem decrescente informe o numero de ocorrencia de cada atividade. Posicione os graficos lado a lado. Coloque como titulo "Principais funções dos gestores em 2022 e 2025" Forneça o codigo de criaçao desses dois graficos em python.
+
+
+Faça uma analise comparativa desses dois arquivos e os organize em tres partes:
+primeira parte:
+Na primeira faça uma comparaçao entre a satisfaçao dos profissionais nos anos 2022 e 2025.
+segunda parte:
+Identifique os principais fatores que influenciam o contentamento dos profissionais no ano 2022 e os compare com o ano 2025.
+terceira parte:
+crie uma ferramenta baseada em machine learning que permita identificar se existe felicidade de um colaborador em relacao ao seu trabalho.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+GEMINI
+
+As atividades dos gestores estao em colunas especificas. Eu coloquei um mapeamento das funçoes dos gestores e as colunas correspondentes.
+funcoes = {
+    'Pensar na visão de longo prazo de dados da empresa ': 'visao',
+    'Apoio no Desenvolvimento das Pessoas ': 'desenvolvimento',
+    'Atração, Seleção e Contratação de Talentos ': 'rh',
+    'Gestor da equipe responsável pela entrega de dados e relatórios ': 'gestor_equipe',
+    'Gestão de projetos de Dados ': 'gestor_etapa',
+    'Organização de Treinamentos ': 'treinamento',
+    'Decisão sobre contratação de Ferramentas ': 'ferramentas',
+    'Ainda atuo na parte Técnica ': 'parte_tecnica',
+    'Gestão de produtos de dados ': 'gestor_produto',
+    'Gestor da equipe de projetos envolvendo IA ': 'gestor_ia',
+    'Gestor da equipe responsável pela engenharia de dados ': 'data_lake'
+}
+Refaça a primeira instruçao com estas observaçoes:
+Identifique quais são as 10 principais atividades dos profissionais que atuam na gestao de equipe de dados do ano 2022 e tambem as 10 principais atividades do ano 2025;
+Crie dois graficos - um para cada ano, e em ordem decrescente informe a contagem de cada atividade. Quando o cursor repousar na barra devera mostrar a contagem seguida do nome da funçao.
+Posicione os graficos lado a lado e nao coloque bordas. Use um unico label a direita dos dois graficos e atribua uma cor para cada funçao.
+Coloque como titulo "Principais funções dos gestores em 2022 e 2025" Forneça o codigo de criaçao desses dois graficos em python.
+
+
+
+

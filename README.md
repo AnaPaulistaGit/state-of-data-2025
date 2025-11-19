@@ -171,4 +171,5 @@ Quanto maior a equipe, maior tende a ser a satisfação, reforçando a ideia de 
 
 
 
-
+##
+<div align="center">Feito com 💙 por <a href="https://github.com/AnaPaulistaGit">AnaPaulistaGit</a>.</div>

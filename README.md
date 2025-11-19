@@ -135,28 +135,40 @@ O aumento da insatisfação em equipes de dados de médio e grande porte é a pr
 
 <img width="492" height="391" alt="faixasalarial" src="https://github.com/user-attachments/assets/a6ff19f5-4dee-4d5d-8ebd-12326bf652e9" />
 
-<b>Como era em 2022<p>
+<b>Como era em 2022</b><br>
 Empresas com pequenas equipes possuiam faixa salarial a partir de 4mil <p>
 
-<b>Como esta sendo em 2025<p>
+<b>Como esta sendo em 2025</b><br>
 Houve uma valorizacao da faixa salarial mesmo para empresas com equipes pequenas<p>
 
-<b>Diagnostico:<br>
+<b>Diagnostico:</b><br>
 A valorizacao do mercado de dados segue a tendencia global, com a crescente demanda por profissionais de dados, especialmente em equipes em formaçao (pequenas) e em empresas medias elevou os patamares salariais no Brasil.
 
-
-**Calculadora da Satisfaçao**
+##
+## Calculadora da Satisfaçao
 
 A calculadora da satisfaçao identifica se o profissional de dados esta satisfeito em seu meio de atuação.
 
-
-from IPython.display import IFrame
-url = "https://stateofdata2022.onrender.com/"
-IFrame(url, width=1000, height=1200)
+[StateOfData2022](https://stateofdata2022.onrender.com/).
 
 
-# Mais informações sobre o projeto original e atualizado
-# https://github.com/alanxfelipex/state-of-data-2022
-# https://github.com/AnaPaulistaGit/state-of-data-2025
+##
+## Resumo e Conclusões em 2025
+
+A principal atividade estratégica na gestão de equipes de dados continua sendo a retenção de talentos, agora com maior ênfase em planos de carreira e diferenciais competitivos. </br>
+
+O desafio de contratar pessoas diminuiu em relação a 2022, mas os salários cresceram, indicando que a escassez de profissionais especializados ainda pressiona o mercado. </br>
+
+Insatisfação permanece concentrada nas faixas salariais mais baixas, reforçando que remuneração é fator crítico de retenção. </br>
+
+A busca por novas oportunidades segue sendo motivada por salário e flexibilidade no modelo de trabalho. </br>
+
+O modelo 100% remoto passou a concentrar maior índice de satisfação, enquanto o presencial manteve altos níveis de insatisfação. </br>
+
+Equipes em processo de consolidação (4 a 10 pessoas e 51 a 100 pessoas) tiveram aumento salarial significativo, sugerindo valorização da experiência em times que estão expandindo. </br>
+
+Quanto maior a equipe, maior tende a ser a satisfação, reforçando a ideia de que times estruturados oferecem mais estabilidade e desenvolvimento profissional. </br>
+
+
 
 
